@@ -1,3 +1,9 @@
+@import url(' https://fonts.cdnfonts.com/css/helvetica-neue-5 ');
+
+.font-family {
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
 .mg-img {
     background-image: url(../image/png/home-page-bg.png);
     background-size: cover;
@@ -46,6 +52,25 @@
 
 .rotate-45 {
     transform: rotate(-44deg);
+}
+
+.mx-506 {
+    max-width: 506px
+}
+
+.address-input {
+    border-radius: 0px 100px 100px 20px;
+    border: 1px solid #00000033;
+    padding: 24px 276px 24px 22px;
+}
+
+.home-btn {
+    padding: 12px 20px 12px 20px;
+    border-radius: 0px 50px 50px 20px;
+    background-color: #00A8E8;
+    border: none;
+    left: 29%;
+    margin-top: 13px;
 }
 
 @media (max-width:991.98px) {
