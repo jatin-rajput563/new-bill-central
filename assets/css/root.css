@@ -13,6 +13,7 @@
     --lh-24: 24px;
     --lh-30: 30px;
     --lh-38: 38px;
+    --lh-41: 41.6px;
     --lh-52: 52.8px;
     --lh-70: 70.4px;
     /* / ---color----- / */
@@ -67,6 +68,10 @@
 
 .lh-38 {
     line-height: var(--lh-38);
+}
+
+.lh-41 {
+    line-height: var(--lh-41);
 }
 
 .lh-52 {
