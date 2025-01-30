@@ -82,3 +82,10 @@
 .light-blue {
     color: var(--light-blue);
 }
+
+@media (max-width:576px) {
+    :root {
+        --fs-2xl: 42px;
+        --lh-70: 50px;
+    }
+}
