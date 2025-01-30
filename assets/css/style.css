@@ -1,0 +1,23 @@
+.mg-img {
+    background-image: url(../image/png/home-page-bg.png);
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+.z-5 {
+    z-index: 5;
+}
+
+.py-22 {
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+
+.mx-1140 {
+    max-width: 1140px !important;
+}
+
+.gap-39 {
+    gap: 39px;
+}
